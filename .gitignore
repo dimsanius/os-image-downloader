@@ -1,5 +1,5 @@
-.ven/
-.env/
+.venv/**
+.env/**
 
-.idea/
-.vscode/
+.idea/**
+.vscode/**
